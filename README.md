@@ -2,4 +2,4 @@
 
 This is a test for automatic branch merging from release_master into master!!!
 
-This should be a conflict
+CONFLICT 1
