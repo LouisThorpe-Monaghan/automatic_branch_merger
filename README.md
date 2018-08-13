@@ -1,3 +1,3 @@
 # automatic_branch_merger
 
-Testing multiple branch watching from release develop 1
+Test commit from releas_develop into release_master
