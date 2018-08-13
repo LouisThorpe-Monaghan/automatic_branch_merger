@@ -1,3 +1,3 @@
 # automatic_branch_merger
 
-Testing multiple branch watching from release develop 1
+This is a commit to release_develop 1.
