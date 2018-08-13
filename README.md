@@ -1,3 +1,3 @@
 # automatic_branch_merger
 
-This is a commit to release_develop 1.
+Test commit from releas_develop into release_master
