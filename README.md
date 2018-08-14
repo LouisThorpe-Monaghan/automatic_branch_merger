@@ -1,3 +1,6 @@
 # automatic_branch_merger
 
-This is a test commit from release_develop_2 into release_master_2
+A completely new test in dev 1
+
+
+Line added by dev 2
