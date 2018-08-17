@@ -1,3 +1,3 @@
 # automatic_branch_merger
 
-Valid intercept test
+ANother interception test
