@@ -1,3 +1,3 @@
 # automatic_branch_merger
 
-Change from release develop 2
+Gonna test multiple commits at the same time
