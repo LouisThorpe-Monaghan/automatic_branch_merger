@@ -1,6 +1,3 @@
 # automatic_branch_merger
 
-Commit from dev 1
-Version 2
-
-AGAIN
+Valid change to dev 1
