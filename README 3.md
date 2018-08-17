@@ -1,3 +1,3 @@
 # automatic_branch_merger
 
-ANother interception test
+Brand new merge test from dev 2 
