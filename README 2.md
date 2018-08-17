@@ -1,6 +1,3 @@
 # automatic_branch_merger
 
-Electric boogaloo
-
-
-testing a new push
+Testing positive case from Release Develop through to master
