@@ -1,6 +1,3 @@
 # automatic_branch_merger
 
-A third file
-
-
-Line added by dev 2
+Change from release develop 2
